@@ -1,0 +1,4 @@
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\ApplicationHooks\ApplicationHooks\bin\Debug\ApplicationHooks.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\ApplicationHooks\ApplicationHooks\bin\Debug\ApplicationHooks.pdb
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\ApplicationHooks\ApplicationHooks\obj\Debug\ApplicationHooks.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\ApplicationHooks\ApplicationHooks\obj\Debug\ApplicationHooks.pdb
