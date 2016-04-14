@@ -1,0 +1,8 @@
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\bin\Debug\UniversalControlCenter.exe.config
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\bin\Debug\UniversalControlCenter.exe
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\bin\Debug\UniversalControlCenter.pdb
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\bin\Debug\ApplicationHooks.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\bin\Debug\ApplicationHooks.pdb
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\obj\Debug\UniversalControlCenter.csprojResolveAssemblyReference.cache
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\obj\Debug\UniversalControlCenter.exe
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\UniversalControlCenter\UniversalControlCenter\obj\Debug\UniversalControlCenter.pdb
