@@ -1,0 +1,7 @@
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartyBassSet\3rdPartyBassSet\bin\Debug\3rdPartyBassSet.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartyBassSet\3rdPartyBassSet\bin\Debug\3rdPartyBassSet.pdb
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartyBassSet\3rdPartyBassSet\bin\Debug\ApplicationHooks.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartyBassSet\3rdPartyBassSet\bin\Debug\ApplicationHooks.pdb
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartyBassSet\3rdPartyBassSet\obj\Debug\3rdPartyBassSet.csprojResolveAssemblyReference.cache
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartyBassSet\3rdPartyBassSet\obj\Debug\3rdPartyBassSet.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartyBassSet\3rdPartyBassSet\obj\Debug\3rdPartyBassSet.pdb
