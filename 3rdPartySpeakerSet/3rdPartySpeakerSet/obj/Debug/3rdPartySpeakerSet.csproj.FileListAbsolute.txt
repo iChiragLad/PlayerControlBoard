@@ -1,0 +1,7 @@
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartySpeakerSet\3rdPartySpeakerSet\bin\Debug\3rdPartySpeakerSet.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartySpeakerSet\3rdPartySpeakerSet\bin\Debug\3rdPartySpeakerSet.pdb
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartySpeakerSet\3rdPartySpeakerSet\bin\Debug\ApplicationHooks.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartySpeakerSet\3rdPartySpeakerSet\bin\Debug\ApplicationHooks.pdb
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartySpeakerSet\3rdPartySpeakerSet\obj\Debug\3rdPartySpeakerSet.csprojResolveAssemblyReference.cache
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartySpeakerSet\3rdPartySpeakerSet\obj\Debug\3rdPartySpeakerSet.dll
+D:\Do not touch\C# practice\CSharp_Practice\Classic Extendable application\3rdPartySpeakerSet\3rdPartySpeakerSet\obj\Debug\3rdPartySpeakerSet.pdb
